@@ -1,0 +1,21 @@
+html {
+    this: that;
+    font-weight: bold;
+}
+
+carrots {
+    color: red;
+}
+
+body {
+    font-family:DFKai-SB,Futura,Impact,Helvetica,sans-serif;
+    font-size:125%;
+	color:#dddddd;
+}
+
+#ui-bar {display: none;}
+#story {margin-left: 3.5em;}
+
+/*#passages {
+    background-image:url("image/bg1.jpg");
+}*/
